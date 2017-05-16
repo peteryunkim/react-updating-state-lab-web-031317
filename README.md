@@ -1,18 +1,3 @@
-# React Updating State Lab
-
-## Overview
-
-In this lab, you'll update  state using `setState()`. 
-
-## World record click counter
-![Oldtimer stuff](http://il5.picdn.net/shutterstock/videos/15633112/thumb/1.jpg)
-
-We got a new job! Woo! This time, we're a judge for Guinness World Records. We're no ordinary judge, however — we're a _modern day_ judge. We do things using _computers_. Instead of using those old, clunky clickity-things to count stuff for world records, we'll write our very own digital clicker!
-
-1. In the `components/DigitalClicker.js` file, create a `DigitalClicker` React component.
-2. This component has a state property called `timesClicked`, that is initially defined as 0.
-3. The component renders out a button with a label that shows the `timesClicked` value. This means that at the start, your button should just say `0`.
-4. Whenever the button is clicked, update the state by incrementing the `timesClicked` by 1.
 
 
 ## Debugging YouTube
